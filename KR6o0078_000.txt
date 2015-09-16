@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘起信論
+#+DATE: 2015-08-30 21:00:36.181738
+#+PROPERTY: JUAN 0
